@@ -13,7 +13,7 @@ class TalkMed
      */
     public function index ()
     {
-        echo "this is TalkMed.php";
+        echo "This Is TalkMed.php";
     }
 
 }
