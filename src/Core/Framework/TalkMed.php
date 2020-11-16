@@ -1,19 +1,19 @@
 <?php
-namespace Core/Framework;
+namespace Core\Framework;
 
 class TalkMed
 {
     /**
      * No explanation
      *
-     * @author Zhiqiang Guo
+     * @author aug dai
      * @return void
      * @throws Exception
      * @access public
      */
     public function index ()
     {
-        echo "This Is TalkMed.php";
+        echo "This Is TalkMed";
     }
 
 }
