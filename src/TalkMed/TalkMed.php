@@ -6,7 +6,7 @@ class TalkMed
 
     public function index ()
     {
-        echo "This Is TalkMed";
+        echo "This Is TalkMed...";
     }
 
 }
