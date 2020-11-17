@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Core\\Framework\\": "src/Core/Framework"
+          "talkmed\\": "src/talkmed"
         }
     }
 }
